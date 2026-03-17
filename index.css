@@ -1,0 +1,40 @@
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5vh 0;
+
+}
+
+.itens{
+    display: flex;
+    gap: 25px;
+
+}
+.botao{
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    background-color: #bd56f1;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
+
+.home-conteudo{
+    text-align: center;
+}
+
+.home{
+    background-color: #a88dc0;
+}
+
+.trabalho button{
+    padding: 15px 25px;
+    border: none;
+    background-color: #a88dc0;
+    color: white;
+    border-radius: 0 10px 10px 0;
+    cursor: pointer;
+}
+
